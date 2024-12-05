@@ -1,5 +1,5 @@
 # BME331 - Physiological Control Systems
-This repository contains the labs and materials from the BME331 Physiological Control course at University of Toronto (Winter 2022).
+This repository contains the labs and materials from the BME331 Physiological Control course at the University of Toronto (Winter 2022).
 
 ## Labs
 - [Lab 1](./Lab1)
